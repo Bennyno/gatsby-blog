@@ -1,6 +1,7 @@
 ---
 title: "Knicks in the playoffs"
 date: "2023-04-18"
+description: "My first knicks blog post"
 ---
 
 ### The knicks are in the playoffs for the second time in 3 years.
